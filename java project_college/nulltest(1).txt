@@ -1,0 +1,26 @@
+
+                           	QUIZ
+
+
+1. Garbage Collection is manual process.	 (True\False)
+
+2. Which of these constructors is used to create an empty String object? 	 (	)
+    a) String()
+    b) String(void)
+    c) charAt()
+    d) CharAt()
+
+3. An expression involving byte, int, and literal numbers is promoted to which of these? 	 (	)
+    a) int
+    b) long
+    c) byte
+    d) float
+
+4. Interfaces can be instantiated.	 (True\False)
+
+5. What is the range of data type short in Java?	 (	)
+    a) -128 to 127
+    b) -32768 to 32767
+    c) -2147483648 to 2147483647
+    d) None of the mentioned
+

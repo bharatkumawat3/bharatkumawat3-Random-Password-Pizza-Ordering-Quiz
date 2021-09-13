@@ -1,0 +1,16 @@
+
+                           	QUIZ
+
+
+1. An expression involving byte, int, and literal numbers is promoted to which of these? 	 (	)
+    a) int
+    b) long
+    c) byte
+    d) float
+
+2. Interfaces can be instantiated.	 (True\False)
+
+3. James Gosling is father of Java?	 (True\False)
+
+4. All binary operators except for the assignment operators are evaluated from Left to Right	 (True\False)
+

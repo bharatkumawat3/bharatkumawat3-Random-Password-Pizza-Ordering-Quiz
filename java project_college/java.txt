@@ -1,0 +1,107 @@
+tf
+In an instance method or a constructor, "this" is a reference to the current object.
+True
+tf
+Garbage Collection is manual process.
+False
+tf
+Constructor overloading is not possible in Java.
+False
+tf
+Assignment operator is evaluated Left to Right.
+False
+tf
+All binary operators except for the assignment operators are evaluated from Left to Right
+True
+tf
+Variable name can begin with a letter, "$", or "_".
+True
+tf
+Interfaces can be instantiated.
+False
+tf
+A .class file contains bytecodes?
+True
+tf
+James Gosling is father of Java?
+True
+tf
+Java technology is both a programming language and a platform.
+True
+mcq
+What is the range of data type short in Java?
+-128 to 127
+-32768 to 32767
+-2147483648 to 2147483647
+None of the mentioned
+2
+mcq
+An expression involving byte, int, and literal numbers is promoted to which of these? 
+int
+long
+byte
+float
+1
+mcq
+ Which data type value is returned by all transcendental math functions? 
+int
+float
+double
+long
+3
+mcq
+Which of these coding types is used for data type characters in Java?
+ASCII
+ISO-LATIN-1
+UNICODE
+None of the above
+3
+mcq
+Which of these class is superclass of String and StringBuffer class? 
+java.util
+java.lang
+ArrayList
+None of above
+2
+mcq
+Which of these operators can be used to concatenate two or more String objects?
++
++=
+&
+||
+1
+mcq
+Which of these method of class String is used to obtain length of String object?
+get()
+Sizeof()
+lengthof()
+length()
+4
+mcq
+Which of these constructors is used to create an empty String object? 
+String()
+String(void)
+charAt()
+CharAt()
+3
+mcq
+java is 
+Middle level language
+high level language
+low level language
+no of the above
+1
+mcq
+java is 
+Middle level language
+High level language
+Low level language
+No of the above
+2
+mcq
+what is java?
+high-level language
+mid-level language
+low-level language
+none of them
+1

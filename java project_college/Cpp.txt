@@ -1,0 +1,98 @@
+mcq
+What is the size of wchar_t in C++?
+2
+4
+2 or 4
+system defined
+4
+mcq
+Pick the odd one out
+array type
+character type
+boolean type
+integer type
+1
+mcq
+ Which datatype is used to represent the absence of parameters?
+int 
+short
+void
+float
+3
+mcq
+ What does a escape code represent?
+alert
+backslash
+tab
+form feed
+1
+mcq
+ Pick the odd one out.
+integer, character, boolean, floating
+enumeration, classes
+ integer, enum, void
+arrays, pointer, classes
+3
+mcq
+Which keyword is used to define the user defined data types?
+def
+union
+typedef
+type
+3
+mcq
+How many types of user-defined data type are in c++?
+1
+2
+3
+4
+3
+mcq
+How many types of models are available to create the user-defined data type?
+1
+2
+3
+4
+2
+blank
+The smallest individual unit in a program is known as a ____________
+token
+blank
+An ___________ is a long sequence of letters and digits.
+identifiers
+blank
+ ____________ escape sequence represents the given number in octal form.
+\0n
+blank
+____________ is used to name integer constants using enum keyword.
+enumerator
+blank
+__________ operator in C++, requires three operands.
+ternary
+blank
+A ___________ operator is used to group together several expressions.
+comma
+blank
+___________ data type cannot be used to declare variables in C++.
+void
+blank
+______________ returns the size of a variable in bytes.
+sizeof
+tf
+It is not possible to achieve inheritance of structures in c++?
+False
+tf
+Super classes are also called Parent classes/Base classes.
+True
+tf
+Sub classes may also be called Child classes/Derived classes.
+True
+tf
+ C++ never provides a default constructor
+False
+tf
+Exceptions can be caught and re-thrown in C++
+True
+tf
+The cin>> input statement is used to receive data from keyboard.
+True
